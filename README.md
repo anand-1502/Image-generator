@@ -27,9 +27,12 @@ This is a simple **Streamlit-based application** that allows users to generate A
 
 ### Working Example
 ![Working Example](images/asu-winter-1.png)
+![Working Example](images/asu-winter-2.png)
 
 ### User Interface
-![UI Placeholder](images/ui-screenshot.png)
+![UI Placeholder](images/generating.png)
+![UI Placeholder](images/generated.png)
+
 
 *(Note: Replace the `images/working-example.png` and `images/ui-screenshot.png` with the actual paths to your images.)*
 
