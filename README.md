@@ -1,8 +1,11 @@
 # Image Generation Tool 🖼️
 
-This is a **Streamlit-based application** that allows users to generate AI-powered images using OpenAI's DALL-E model. Provide a description of the image, select the number of images to generate, and let the magic happen!  
+## 📖 Overview
+
+This project provides an **Image Generation Tool** that uses **OpenAI's DALL-E 3 model** to create images based on text descriptions. Built with **Streamlit**, the tool allows users to input a description and generate one or more images based on that prompt. The app allows for a seamless experience where users can interact with the interface, type in their descriptions, and receive AI-generated images in real time. The core functionality of the application involves integrating the OpenAI API to generate images from the provided description and displaying the results through a simple and clean web interface.
 
 ---
+
 
 ## 📖 Features
 
