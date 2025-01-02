@@ -26,7 +26,7 @@ This is a simple **Streamlit-based application** that allows users to generate A
 ## 🖼️ Screenshots
 
 ### Working Example
-![Working Example](images/working-example.png)
+![Working Example](images/asu-winter-1.png)
 
 ### User Interface
 ![UI Placeholder](images/ui-screenshot.png)
